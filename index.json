@@ -1,0 +1,32 @@
+{
+  "name": "Herva Suwayomi Extensions",
+  "badgeLabel": "HERVA",
+  "signingKey": "debug/local-custom",
+  "contact": {
+    "website": "https://github.com/singgihanggana/suwayomi-comix-extension-repo"
+  },
+  "extensionList": {
+    "extensions": [
+      {
+        "name": "Comix (Herva sidecar patched)",
+        "packageName": "eu.kanade.tachiyomi.extension.en.comix",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/singgihanggana/suwayomi-comix-extension-repo/refs/heads/repo/apk/tachiyomi-en.comix-v1.4.32.apk",
+          "iconUrl": "https://raw.githubusercontent.com/singgihanggana/suwayomi-comix-extension-repo/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.comix.png"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "32",
+        "versionName": "1.4.32-herva.1",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "7537715367149829912",
+            "name": "Comix",
+            "language": "en",
+            "homeUrl": "https://comix.to"
+          }
+        ]
+      }
+    ]
+  }
+}
