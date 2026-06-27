@@ -11,12 +11,12 @@
         "name": "Comix (Herva sidecar patched)",
         "packageName": "eu.kanade.tachiyomi.extension.en.comix",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/singgihanggana/suwayomi-comix-extension-repo/refs/heads/repo2/apk/tachiyomi-en.comix-v1.4.33.apk",
-          "iconUrl": "https://raw.githubusercontent.com/singgihanggana/suwayomi-comix-extension-repo/refs/heads/repo2/icon/eu.kanade.tachiyomi.extension.en.comix.png"
+          "apkUrl": "https://raw.githubusercontent.com/singgihanggana/suwayomi-comix-extension-repo/refs/heads/comix-v34-t_6fc7dcc4/apk/tachiyomi-en.comix-v1.4.34.apk",
+          "iconUrl": "https://raw.githubusercontent.com/singgihanggana/suwayomi-comix-extension-repo/refs/heads/comix-v34-t_6fc7dcc4/icon/eu.kanade.tachiyomi.extension.en.comix.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "33",
-        "versionName": "1.4.33",
+        "versionCode": "34",
+        "versionName": "1.4.34",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
